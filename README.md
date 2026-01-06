@@ -1,25 +1,23 @@
-# Free eCommerce Template for Next.js - NextMerce
+# E-Commerce Template for Next.js
 
-The free Next.js eCommerce template is a lite version of the NextMerce Next.js eCommerce boilerplate, designed to streamline the launch and management of your online store.
+A comprehensive Next.js e-commerce template designed to streamline the launch and management of your online store.
 
-![NextMerce](https://github.com/user-attachments/assets/57155689-a756-4222-8af7-134e556acae2)
-
-
-While NextMerce Pro features advanced functionalities, seamless integration, and customizable options, providing all the essential tools needed to build and expand your business, the lite version offers a basic Next.js template specifically crafted for eCommerce websites. Both versions ensure superior performance and flexibility, all powered by Next.js.
-
-### NextMerce Free VS NextMerce Pro
-
-| ✨ Features                         | 🎁 NextMerce Free                 | 🔥 NextMerce Pro                        |
-|----------------------------------|--------------------------------|--------------------------------------|
-| Next.js Pages                    | Static                         | Dynamic Boilerplate Template         |
-| Components                       | Limited                        | All According to Demo                |
-| eCommerce Functionality          | Included                       | Included                             |
-| Integrations (DB, Auth, etc.)    | Not Included                   | Included                             |
-| Community Support                | Included                       | Included                             |
-| Premium Email Support            | Not Included                   | Included                             |
-| Lifetime Free Updates            | Included                       | Included                             |
+![E-commerce Logo](https://github.com/user-attachments/assets/57155689-a756-4222-8af7-134e556acae2)
 
 
-#### [🚀 Live Demo](https://demo.nextmerce.com/)
+This template offers a complete Next.js solution specifically crafted for e-commerce websites. It ensures superior performance and flexibility, all powered by Next.js.
 
-#### [🌐 Visit Website](https://nextmerce.com/)
+### Features
+
+| ✨ Features                         | ✅ Included                       |
+|----------------------------------|--------------------------------|
+| Next.js Pages                    | Static                         |
+| Components                       | Complete                       |
+| E-commerce Functionality         | Included                       |
+| Integrations (DB, Auth, etc.)    | Included                       |
+| Community Support                | Included                       |
+
+
+#### [🚀 Live Demo](https://demo.example.com/)
+
+#### [🌐 Visit Website](https://example.com/)
