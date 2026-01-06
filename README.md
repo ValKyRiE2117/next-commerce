@@ -17,7 +17,6 @@ Platform e-commerce modern dan responsif yang dibangun dengan Next.js, menampilk
 - **Navigasi Kategori**: Penjelajahan produk yang terorganisir berdasarkan kategori
 - **Item yang Baru Dilihat**: Lacak dan tampilkan produk yang baru dilihat
 - **Halaman Kontak**: Komunikasi mudah dengan toko
-- **Pendaftaran Newsletter**: Tetap update dengan berita dan penawaran toko
 
 ## Halaman
 
@@ -50,14 +49,6 @@ Platform e-commerce modern dan responsif yang dibangun dengan Next.js, menampilk
 - **Checkout**: Proses checkout yang aman
 - **Pesanan Berhasil**: Halaman konfirmasi setelah pembelian berhasil
 
-### Halaman Informasi
-
-- **Kontak**: Formulir kontak dan informasi toko
-- **Blog**: Berita dan update perusahaan
-- **FAQ**: Pertanyaan yang sering diajukan
-- **Kebijakan Privasi**: Informasi privasi dan perlindungan data
-- **Syarat Layanan**: Syarat dan ketentuan
-
 ### Halaman Error
 
 - **Error 404**: Halaman error khusus untuk tautan yang rusak
@@ -67,10 +58,7 @@ Platform e-commerce modern dan responsif yang dibangun dengan Next.js, menampilk
 - **Framework**: Next.js 16
 - **Styling**: Tailwind CSS
 - **State Management**: Redux Toolkit
-- **Autentikasi**: NextAuth.js
 - **Integrasi Database**: Siap untuk integrasi dengan berbagai database
-- **Pemrosesan Pembayaran**: Siap untuk integrasi dengan berbagai gateway pembayaran
-- **Email**: Nodemailer untuk email transaksional
 
 ## Instalasi
 
